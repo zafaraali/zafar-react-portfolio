@@ -1,4 +1,4 @@
-import React, { useCallback } from 'react'
+import React from 'react'
 import PropTypes from 'prop-types'
 
 const ProjectsItem = ({id, demo, thumbnail, caption, github}) => {
