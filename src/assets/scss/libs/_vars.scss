@@ -1,0 +1,63 @@
+// Misc.
+$misc: (
+  z-index-base: 10000,
+);
+
+// Duration.
+$duration: (
+  transition: 0.2s,
+);
+
+// Size.
+$size: (
+  border-radius: 0.35em,
+  element-height: 2.75em,
+  element-margin: 2em,
+);
+
+// Font.
+$font: (
+  family: (
+    'Source Sans Pro',
+    Helvetica,
+    sans-serif,
+  ),
+  family-fixed: (
+    'Courier New',
+    monospace,
+  ),
+  weight: 400,
+  weight-bold: 400,
+);
+
+// Palette.
+$palette: (
+  bg: #fff,
+  fg: #78747e,
+  fg-bold: #454249,
+  fg-light: #78747e,
+  border: #78747e2b,
+  border-bg: #f7f7f7,
+  border2: #dfdfdf,
+  border2-bg: #e7e7e7,
+  accent1: (
+    bg: #27282b,
+    fg: mix(#27282b, #ffffff, 25%),
+    fg-bold: #ffffff,
+    fg-light: mix(#27282b, #ffffff, 40%),
+    border: rgba(255, 255, 255, 0.25),
+    border-bg: rgba(255, 255, 255, 0.075),
+    border2: rgba(255, 255, 255, 0.5),
+    border2-bg: rgba(255, 255, 255, 0.2),
+  ),
+  accent2: (
+    bg: #27282b,
+    fg: rgba(255, 255, 255, 0.5),
+    fg-bold: #ffffff,
+    fg-light: rgba(255, 255, 255, 0.4),
+    border: rgba(255, 255, 255, 0.25),
+    border-bg: rgba(255, 255, 255, 0.075),
+    border2: rgba(255, 255, 255, 0.5),
+    border2-bg: rgba(255, 255, 255, 0.2),
+  ),
+);
