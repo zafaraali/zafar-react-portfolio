@@ -1,16 +1,7 @@
 import React, { useCallback } from 'react'
 import PropTypes from 'prop-types'
 
-const ProjectsItem = ({
-  id,
-  thumbnail,
-  caption,
-  description,
-  github,
-  demo,
-}) => {
-  useCallback()
-
+const ProjectsItem = ({id, demo, thumbnail, caption, github}) => {
   return (
     <article key={id} className="6u 12u$(xsmall) work-item">
       <a
