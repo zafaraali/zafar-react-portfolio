@@ -33,12 +33,6 @@ export const resumeData = {
           "title": "GitHub"
         },
         {
-          "name": "linkedin",
-          "url": "https://www.linkedin.com/in/zafaraali/",
-          "className": "icon fa-linkedin",
-          "title": "LinkedIn"
-        },
-        {
           "name": "email",
           "url": "mailto:zafar.a.ali2@gmail.com",
           "className": "icon fa-envelope-o",
