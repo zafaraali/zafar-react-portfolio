@@ -24,7 +24,7 @@ export const resumeData = {
         }
       },
       "website": "zafaraali.com",
-      "resumeView": "https://drive.google.com/file/d/1prJ5LFY327kngTiqB7j8csL1Qm9UhWgk/view?usp=sharing",
+      "resumeView": "https://docs.google.com/document/d/1O8k0nij2wlRjrHTxAKU8K1wdk0wkdy9k/edit?usp=sharing&ouid=101730002417298221866&rtpof=true&sd=true",
       "social": [
         {
           "name": "github",
