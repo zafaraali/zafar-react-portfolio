@@ -56,7 +56,7 @@ export const resumeData = {
           "descriptions": [
             "During my time at Ryerson, I worked on many group projects utilizing the agile manifesto and GitHub in order to meet deadlines accordingly without sacrificing application functionality."
           ],
-          "diploma": "https://drive.google.com/file/d/1oh9XkqY1sKpstOkdGf1m5OzX7-3EZ2k0/view?usp=sharing"
+          "diploma": "https://drive.google.com/file/d/1PblqeLUvzFPQmTjflcSKccb_-bkSKrRl/view?usp=sharing"
         }
       ],
       "work": [
