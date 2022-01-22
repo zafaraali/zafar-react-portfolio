@@ -24,7 +24,7 @@ export const resumeData = {
         }
       },
       "website": "zafaraali.com",
-      "resumeView": "https://www.icloud.com/iclouddrive/0264d-tN337ehXRd_CLTRz-SQ#Zafar_Ali_Resume",
+      "resumeView": "https://docs.google.com/document/d/1Z-Rlz-UNTEI8kSsM3L3FHeW1Q087YRn_/edit?usp=sharing&ouid=101730002417298221866&rtpof=true&sd=true",
       "social": [
         {
           "name": "github",
@@ -50,7 +50,7 @@ export const resumeData = {
           "descriptions": [
             "During my time at Ryerson, I worked on many group projects utilizing the agile manifesto and GitHub in order to meet deadlines accordingly without sacrificing application functionality."
           ],
-          "diploma": "https://www.icloud.com/iclouddrive/0dcqcEOWXCAGFoNX20UKVwaRw#Zafar_Ali_Diploma"
+          "diploma": "https://drive.google.com/file/d/1cpgq63T4TwAYUoLbsZHS6NDEtRJXSCBQ/view?usp=sharing"
         }
       ],
       "work": [
