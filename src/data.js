@@ -24,7 +24,7 @@ export const resumeData = {
         }
       },
       "website": "zafaraali.com",
-      "resumeView": "https://docs.google.com/document/d/1O8k0nij2wlRjrHTxAKU8K1wdk0wkdy9k/edit?usp=sharing&ouid=101730002417298221866&rtpof=true&sd=true",
+      "resumeView": "https://www.icloud.com/iclouddrive/0264d-tN337ehXRd_CLTRz-SQ#Zafar_Ali_Resume",
       "social": [
         {
           "name": "github",
